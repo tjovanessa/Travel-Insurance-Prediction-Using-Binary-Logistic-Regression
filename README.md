@@ -20,7 +20,7 @@ The target variable is the TravelInsurance, which represents the insurance purch
 
 ### Getting Started
 1. Set Up Virtual Environment (Google Colab) <br>
-To get started, open <a href="https://colab.research.google.com/">Google Colab</a> and open the `Travel Insurance Prediction Using Binary Logistic Regression.ipynb` notebook from this <a href="https://github.com/tjovanessa/Travel-Insurance-Prediction-Using-Binary-Logistic-Regression/blob/main/Travel%20Insurance%20Prediction%20Using%20Binary%20Logistic%20Regression.ipynb">GitHub repository</a>.
+To get started, open <a href="https://colab.research.google.com/">Google Colab</a> and open the `Travel Insurance Prediction Using Binary Logistic Regression.ipynb` notebook from this <a href="https://github.com/tjovanessa/Travel-Insurance-Prediction-Using-Binary-Logistic-Regression/blob/main/Travel%20Insurance%20Prediction%20Using%20Binary%20Logistic%20Regression.ipynb">GitHub repository</a>. Make sure the runtime type `R` is selected instead of `Python`.
 2. Install Dependencies <br>
 Once the notebook is uploaded, install the required dependencies by running the code embedded in the notebook.
 3. Run Analysis <br>
