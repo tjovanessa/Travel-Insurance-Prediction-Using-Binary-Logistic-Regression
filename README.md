@@ -1,0 +1,2 @@
+# Travel-Insurance-Prediction-Using-Binary-Logistic-Regression
+This project develops a binary logistic regression model to predict customer interest in travel insurance. Using a dataset of previous customers, the model evaluates key factors influencing purchasing decisions. Statistical analyses like chi-square, Pearson correlation, and multicollinearity tests are applied to ensure model interpretability.
